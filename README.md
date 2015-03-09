@@ -1,4 +1,4 @@
-# SixArm.com » RubyMotion » <br> Tips, hints, and ideas
+# RubyMotion » <br> Tips, hints, and ideas
 
 * Docs: <http://sixarm.com/sixarm_rubymotion_tips/doc>
 * Repo: <http://github.com/sixarm/sixarm_rubymotion_tips>
